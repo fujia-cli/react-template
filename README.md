@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <h1>@fujia/h5-component-template</h1>
+  <h1>@fujia/react-template</h1>
 </div>
 
 <div align="center">
 
-A component template for h5.
+A template for react build with TypeScript.
 
 </div>
 
